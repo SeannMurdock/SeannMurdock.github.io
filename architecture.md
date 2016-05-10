@@ -3,5 +3,5 @@ layout: page
 title: Architecture
 permalink: /architecture/
 ---
-<h1>Deployment View </h1>
-<img src="http://seannmurdock.github.io/images/Deploymentview.png" alt="Deployment View">
+<h2>Component and Connector </h2>
+<img src="http://seannmurdock.github.io/images/CCView.png" alt="Component and Connector">
